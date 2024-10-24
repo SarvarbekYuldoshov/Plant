@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <>
         <div className=''>
-           <div className='max-w-[1200px] mx-auto p-[20px]'>
+           <div className='max-w-[1200px] mx-auto p-[20px] flex justify-between'>
                 <img className='' src={Rasm_1} alt="" />
                 <ul className=''>
                     <li className=''><a href="">Home</a></li>
