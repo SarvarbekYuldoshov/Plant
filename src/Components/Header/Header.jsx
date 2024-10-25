@@ -7,24 +7,23 @@ const Header = () => {
         <div className=''>
            <div className='max-w-[1200px] mx-auto p-[20px] flex justify-between'>
                 <img className='' src={Rasm_1} alt="" />
-                <ul className='flex space-x-4'>
-                    <li className='font-dm-sans text-[16px] font-normal leading-[20.83px]'>
-                        <a href="">Home</a>
+                <ul class="flex">
+                    <li class="">
+                        <a className='font-dm-sans text-[16px] font-normal leading-[20.83px]' href="">Home</a>
                     </li>
-                    <li className='font-dm-sans text-[16px] font-normal leading-[20.83px]'>
-                        <a href="">Services</a>
+                    <li>
+                        <a className='font-dm-sans text-[16px] font-normal leading-[20.83px]' href="">Services</a>
                     </li>
-                    <li className='font-dm-sans text-[16px] font-normal leading-[20.83px]'>
-                        <a href="">About Us</a>
+                    <li>
+                        <a className='font-dm-sans text-[16px] font-normal leading-[20.83px]' href="">About Us</a>
                     </li>
-                    <li className='font-dm-sans text-[16px] font-normal leading-[20.83px]'>
-                        <a href="">Blog</a>
+                    <li>
+                        <a className='font-dm-sans text-[16px] font-normal leading-[20.83px]' href="">Blog</a>
                     </li>
-                    <li className='font-dm-sans text-[16px] font-normal leading-[20.83px]'>
-                        <a href="">Contact</a>
+                    <li>
+                        <a className='font-dm-sans text-[16px] font-normal leading-[20.83px]' href="">Contact</a>
                     </li>
                 </ul>
-
            </div>
         </div>
     </>
