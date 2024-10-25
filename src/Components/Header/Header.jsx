@@ -8,7 +8,7 @@ const Header = () => {
            <div className='max-w-[1200px] mx-auto p-[20px] flex justify-between'>
                 <img className='' src={Rasm_1} alt="" />
                 <ul className=''>
-                    <li className=''><a href="">Home</a></li>
+                    <li className='w-[44px] h-[19.42px] font-dm-sans text-[16px] font-normal leading-[20.83px] text-left'><a href="">Home</a></li>
                     <li className=''><a href="">Services</a></li>
                     <li className=''><a href="">About Us</a></li>
                     <li className=''><a href="">Blog</a></li>
