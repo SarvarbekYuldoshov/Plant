@@ -9,6 +9,10 @@ const Header = () => {
                 <img className='' src={Rasm_1} alt="" />
                 <ul className=''>
                     <li className=''><a href="">Home</a></li>
+                    <li className=''><a href="">Home</a></li>
+                    <li className=''><a href="">Home</a></li>
+                    <li className=''><a href="">Home</a></li>
+                    <li className=''><a href="">Home</a></li>
                 </ul>
            </div>
         </div>
