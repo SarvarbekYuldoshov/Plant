@@ -12,7 +12,7 @@ const Header = () => {
                     <li className='w-[44px] h-[19.42px] font-dm-sans text-[16px] font-normal leading-[20.83px] text-left'><a href="">Services</a></li>
                     <li className='w-[44px] h-[19.42px] font-dm-sans text-[16px] font-normal leading-[20.83px] text-left'><a href="">About Us</a></li>
                     <li className='w-[44px] h-[19.42px] font-dm-sans text-[16px] font-normal leading-[20.83px] text-left'><a href="">Blog</a></li>
-                    <li className=''><a href="">Contact</a></li>
+                    <li className='w-[44px] h-[19.42px] font-dm-sans text-[16px] font-normal leading-[20.83px] text-left'><a href="">Contact</a></li>
                 </ul>
            </div>
         </div>
